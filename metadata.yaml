@@ -1,5 +1,5 @@
 _repo: A-Thorny-Path-Volume-11_5540
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcsh 'Egypt -- History -- 30 B.C.-640 A.D. -- Fiction'
 - !lcc 'PT'
+- GITenberg
 title: A Thorny Path — Volume 11
 url: http://www.gutenberg.org/ebooks/5540
